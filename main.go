@@ -14,7 +14,7 @@ import (
 
 	"github.com/BurntSushi/toml"
 	"github.com/LUSHDigital/litmus/format"
-	"github.com/LUSHDigital/litmus/internal/extract"
+	"github.com/LUSHDigital/litmus/domain/extract"
 	"github.com/LUSHDigital/litmus/p"
 	"github.com/LUSHDigital/litmus/pkg"
 	"github.com/pkg/errors"
